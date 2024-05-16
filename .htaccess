@@ -1,0 +1,8 @@
+# Activar el módulo de reescritura de URL
+RewriteEngine On 
+
+# Desactivar la lista de directorios
+Options All -Indexes
+
+# Redirigir todas las solicitudes a index.php con el parámetro views
+RewriteRule ^([a-zA-Z0-9/ñÑ-]+)$ index.php?views=$1
