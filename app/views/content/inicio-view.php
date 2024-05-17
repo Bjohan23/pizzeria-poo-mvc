@@ -25,10 +25,10 @@
                 </div>
                 <div>
                     <p class="mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
-                        Total clients
+                        Usuarios
                     </p>
                     <p class="text-lg font-semibold text-gray-700 dark:text-gray-200">
-                        6389
+                        10
                     </p>
                 </div>
             </div>
@@ -41,10 +41,10 @@
                 </div>
                 <div>
                     <p class="mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
-                        Account balance
+                        ventas hoy
                     </p>
                     <p class="text-lg font-semibold text-gray-700 dark:text-gray-200">
-                        $ 46,760.89
+                        2
                     </p>
                 </div>
             </div>
@@ -57,10 +57,10 @@
                 </div>
                 <div>
                     <p class="mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
-                        New sales
+                        Pedidos
                     </p>
                     <p class="text-lg font-semibold text-gray-700 dark:text-gray-200">
-                        376
+                        8
                     </p>
                 </div>
             </div>
@@ -73,10 +73,10 @@
                 </div>
                 <div>
                     <p class="mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
-                        Pending contacts
+                        mesas ocupadas
                     </p>
                     <p class="text-lg font-semibold text-gray-700 dark:text-gray-200">
-                        35
+                        4
                     </p>
                 </div>
             </div>

@@ -7,14 +7,18 @@ class viewsModel
     protected function obtenerVistasModelo($vista)
     {
         $listaBlanca = [
-            "inicio", 
-            "nuevoUsuario", 
-            "listarUsuario", 
-            "buscarUsuario", 
-            "actualizarUsuario", 
+            "inicio",
+            "nuevoUsuario",
+            "listarUsuario",
+            "buscarUsuario",
+            "actualizarUsuario",
             "usuarioFoto",
             "cerraSesion",
-    ];
+            "ordenar",
+            "insumos",
+            "categorias",
+            "reporte-ventas",
+        ];
         // si el valor esta en el array de la lista blanca
         if (in_array($vista, $listaBlanca)) {
             // si el archivo existe en nuestro directorio  debolvemos la vista 
